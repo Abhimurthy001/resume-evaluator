@@ -58,7 +58,7 @@ pdf_content = ""
 st.sidebar.header("Actions")
 submit1 = st.sidebar.button("Tell Me About the Resume")
 submit2 = st.sidebar.button("How Can I Improvise my Skills")
-submit3 = st.sidebar.button("What are the Keywords That are Missing")
+submit3 = st.sidebar.button("Missing Keywords")
 submit4 = st.sidebar.button("Percentage match")
 
 input_prompt1 = """
